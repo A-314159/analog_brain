@@ -1,6 +1,4 @@
----
-title: Analog Brain
----
+# Analog Brain
 
 Welcome to Analog Brain.
 
